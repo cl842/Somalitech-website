@@ -1,0 +1,7 @@
+{
+  "name": "SomaliTech Solutions Portfolio",
+  "description": "A professional one-page business portfolio website for SomaliTech Solutions, featuring services, projects, and contact information in Somali.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
